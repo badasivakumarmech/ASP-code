@@ -1,0 +1,14 @@
+D:\ASPDOTNET\WebEmployee\WebEmployee\bin\Debug\netcoreapp3.1\WebEmployee.exe
+D:\ASPDOTNET\WebEmployee\WebEmployee\bin\Debug\netcoreapp3.1\WebEmployee.deps.json
+D:\ASPDOTNET\WebEmployee\WebEmployee\bin\Debug\netcoreapp3.1\WebEmployee.runtimeconfig.json
+D:\ASPDOTNET\WebEmployee\WebEmployee\bin\Debug\netcoreapp3.1\WebEmployee.runtimeconfig.dev.json
+D:\ASPDOTNET\WebEmployee\WebEmployee\bin\Debug\netcoreapp3.1\WebEmployee.dll
+D:\ASPDOTNET\WebEmployee\WebEmployee\bin\Debug\netcoreapp3.1\WebEmployee.pdb
+D:\ASPDOTNET\WebEmployee\WebEmployee\obj\Debug\netcoreapp3.1\WebEmployee.csproj.AssemblyReference.cache
+D:\ASPDOTNET\WebEmployee\WebEmployee\obj\Debug\netcoreapp3.1\WebEmployee.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASPDOTNET\WebEmployee\WebEmployee\obj\Debug\netcoreapp3.1\WebEmployee.AssemblyInfoInputs.cache
+D:\ASPDOTNET\WebEmployee\WebEmployee\obj\Debug\netcoreapp3.1\WebEmployee.AssemblyInfo.cs
+D:\ASPDOTNET\WebEmployee\WebEmployee\obj\Debug\netcoreapp3.1\WebEmployee.csproj.CoreCompileInputs.cache
+D:\ASPDOTNET\WebEmployee\WebEmployee\obj\Debug\netcoreapp3.1\WebEmployee.dll
+D:\ASPDOTNET\WebEmployee\WebEmployee\obj\Debug\netcoreapp3.1\WebEmployee.pdb
+D:\ASPDOTNET\WebEmployee\WebEmployee\obj\Debug\netcoreapp3.1\WebEmployee.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+D:\ASPDOTNET\PrasentationLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\ASPDOTNET\PrasentationLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\ASPDOTNET\PrasentationLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\ASPDOTNET\PrasentationLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\ASPDOTNET\PrasentationLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\ASPDOTNET\PrasentationLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\ASPDOTNET\PrasentationLayer\DataAccessLayer\bin\Debug\BusinessObject.dll
+D:\ASPDOTNET\PrasentationLayer\DataAccessLayer\bin\Debug\BusinessObject.pdb
+D:\ASPDOTNET\PrasentationLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete

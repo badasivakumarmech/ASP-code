@@ -1,0 +1,64 @@
+create database taskdemo 
+use taskdemo
+create table emp(eno int,ename varchar(50),sal money)
+------------------------------------------------------
+create procedure proc_addemp(@eno int,@ename varchar(50),@sal money)
+as begin
+  insert into emp values(@eno,@ename,@sal)
+end
+----------------------------------------------------------
+create procedure proc_deleteemp(@eno int)                                   
+as begin
+  delete from emp where eno=@eno
+end
+----------------------------------------------------
+create procedure proc_updateemp(@eno int,@ename varchar(50), @sal money)
+as begin
+ update emp set ename=@ename,sal=@sal where eno=@eno
+end
+---------------------------------------------------------
+create procedure proc_getemp
+as begin 
+    select * from emp
+end
+-------------------------------------------=============
+=========================================================
+ASP.NET Web Application (.NET Framework) C# Windows cloud Web
+==>Project name : PrasentationLayer
+-----------------------------
+Add Project 
+------------
+Class Library (.NET Frameword) C# Windows Library
+==>Project name : BusinessObjects
+-----------------------------------
+Add Project 
+------------
+Class Library (.NET Frameword) C# Windows Library
+==>Project name : DataAccessLayer
+----------------------------------------
+Add Project 
+------------
+Class Library (.NET Frameword) C# Windows Library
+==>Project name : BusinessLogicLayer
+---------------------------------
+=========================================================
+DELETE ALL CLASS.CS
+========================================================= 
+Goto ==> BusinessObjects ==> Add new class ==> name: Employee.cs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

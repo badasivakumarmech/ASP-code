@@ -1,0 +1,23 @@
+create procedure proc_add(@Username varchar(10),@password varchar(10),
+	@Firstname varchar(20),
+	@Lastname varchar(20),
+	@HintQUestion varchar(50),
+	@HintAnswer varchar(50))
+as begin
+  insert into Users values(@Username,@password,@Firstname,@Lastname,@HintQUestion,@HintAnswer)
+end
+=================================================
+create or alter procedure proc_get
+as begin
+	Select * from Users
+End
+================================================
+create or alter procedure proc_update(@Username varchar(10),@password varchar(10),
+	@Firstname varchar(20),
+	@Lastname varchar(20),
+	@HintQUestion varchar(50),
+	@HintAnswer varchar(50))
+as begin
+	update Users set password=@password,Firstname=@Firstname,Lastname=@Lastname,
+	HintQUestion=@HintQUestion,HintAnswer=@HintAnswer where Username=@Username
+end

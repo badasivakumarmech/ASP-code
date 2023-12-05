@@ -1,0 +1,6 @@
+D:\ASPDOTNET\WebAppUsersTable\BussinesObject\bin\Debug\BussinesObject.dll
+D:\ASPDOTNET\WebAppUsersTable\BussinesObject\bin\Debug\BussinesObject.pdb
+D:\ASPDOTNET\WebAppUsersTable\BussinesObject\obj\Debug\BussinesObject.csproj.AssemblyReference.cache
+D:\ASPDOTNET\WebAppUsersTable\BussinesObject\obj\Debug\BussinesObject.csproj.CoreCompileInputs.cache
+D:\ASPDOTNET\WebAppUsersTable\BussinesObject\obj\Debug\BussinesObject.dll
+D:\ASPDOTNET\WebAppUsersTable\BussinesObject\obj\Debug\BussinesObject.pdb

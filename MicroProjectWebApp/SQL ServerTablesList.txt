@@ -1,0 +1,65 @@
+SQL Server
+============
+Users
+----------
+Create table Users( Username varchar(10) primary key,
+                   Password varchar(10) not null,
+		   Firstname varchar(20) not null,
+		   Lastname varchar(20) not null,
+		   HintQUestion varchar(50) not null,
+		   HintAnswer varchar(50) not null  )
+
+insert into Users values('muni','muni123','muni','kumar','dog','janu')
+TAX
+------
+create table TAX( STAX decimal(4,2) primary key,VAT decimal(4,2) not null )
+Items
+--------
+create table Items( Items varchar(30) primary key , Price money not null )
+BillMaster
+===========
+create table BillMaster( BillNumber varchar(10) primary key,
+			 BillDate datetime default getdate(),
+			 BillAmount money not null,
+			 STAX money,
+			 VAT money,
+			 Discount money,TotalBill money,
+			 Username varchar(10) references Users(Username) )
+
+insert into BillMaster(BillNumber,BillAmount,STAX,VAT,Discount,TotalBill,Username) 
+			values('100',5000,200,100,50,2000,'muni')
+BillTrans
+---------------
+create table BillTrans( BillNumber varchar(10) references BillMaster(BillNumber),
+			Itemname varchar(20),
+			Price money,
+			Quantity int,
+			TotalPrice money)
+
+insert into BillTrans values('100','Dosa',20,2,40)
+
+====================================================
+02/09/2023
+-----------
+
+Create table Users ( Username varchar(10),
+                   Password varchar(10),
+		           Firstname varchar(20) ,
+				   Lastname varchar(20) ,
+				   HintQUestion varchar(50) ,
+				   HintAnswer varchar(50) )
+======================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+

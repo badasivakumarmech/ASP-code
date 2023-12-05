@@ -1,0 +1,53 @@
+create table EMP(EMPID INT,ENAME VARCHAR(40),JOB VARCHAR(40),HIRADATE DATE,SAL MONEY,COMM MONEY,DEPT INT)
+=============================================
+
+INSERT INTO EMP VALUES(101,'Ramu','JAVA','09-24-2000',60000,3000,20)
+=====================================
+
+select * from EMP
+=======================================
+
+*** SAME COLUMNS NAME IS MUCH AND SHOULD******
+
+create or alter procedure proc_addemp
+(@EMPNO int,
+@ENAME varchar(40),
+@JOB varchar(40),
+@HIRADATE date,
+@SAL money,
+@COMM money,@DEPTNO int)
+as
+	insert into EMP values( @EMPNO,@EMPNO,@JOB,@HIRADATE,@SAL,@COMM,@DEPTNO)
+=====================================================
+
+create or alter procedure proc_update (@no int,@name varchar(40),
+	@job varchar (40),@dat date,@sal money,@comm money,@dno int)
+AS
+	Update Emp Set ENAME=@name,JOB=@job,HIRADATE=@dat,SAL=@sal,COMM=@comm where EMPID=@no
+=====================================
+
+Create or alter procedure proc_get 
+AS
+	Select * from EMP
+============================================
+
+Create or alter procedure proc_delete
+@no int
+as
+	delete from EMP where EMPID=@no
+=====================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,11 @@
+D:\ASPDOTNET\PrasentationLayer\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\ASPDOTNET\PrasentationLayer\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\ASPDOTNET\PrasentationLayer\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\ASPDOTNET\PrasentationLayer\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\ASPDOTNET\PrasentationLayer\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\ASPDOTNET\PrasentationLayer\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\ASPDOTNET\PrasentationLayer\BusinessLogicLayer\bin\Debug\BusinessObject.dll
+D:\ASPDOTNET\PrasentationLayer\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+D:\ASPDOTNET\PrasentationLayer\BusinessLogicLayer\bin\Debug\BusinessObject.pdb
+D:\ASPDOTNET\PrasentationLayer\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\ASPDOTNET\PrasentationLayer\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete

@@ -1,0 +1,9 @@
+D:\ASPDOTNET\WebAppUsersTable\DataAccesLayer\bin\Debug\DataAccesLayer.dll
+D:\ASPDOTNET\WebAppUsersTable\DataAccesLayer\bin\Debug\DataAccesLayer.pdb
+D:\ASPDOTNET\WebAppUsersTable\DataAccesLayer\bin\Debug\BussinesObject.dll
+D:\ASPDOTNET\WebAppUsersTable\DataAccesLayer\bin\Debug\BussinesObject.pdb
+D:\ASPDOTNET\WebAppUsersTable\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.AssemblyReference.cache
+D:\ASPDOTNET\WebAppUsersTable\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CoreCompileInputs.cache
+D:\ASPDOTNET\WebAppUsersTable\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CopyComplete
+D:\ASPDOTNET\WebAppUsersTable\DataAccesLayer\obj\Debug\DataAccesLayer.dll
+D:\ASPDOTNET\WebAppUsersTable\DataAccesLayer\obj\Debug\DataAccesLayer.pdb

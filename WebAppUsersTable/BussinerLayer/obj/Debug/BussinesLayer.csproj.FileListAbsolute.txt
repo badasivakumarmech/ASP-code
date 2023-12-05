@@ -1,0 +1,11 @@
+D:\ASPDOTNET\WebAppUsersTable\BussinerLayer\bin\Debug\BussinerLayer.dll
+D:\ASPDOTNET\WebAppUsersTable\BussinerLayer\bin\Debug\BussinerLayer.pdb
+D:\ASPDOTNET\WebAppUsersTable\BussinerLayer\obj\Debug\BussinesLayer.csproj.AssemblyReference.cache
+D:\ASPDOTNET\WebAppUsersTable\BussinerLayer\obj\Debug\BussinesLayer.csproj.CoreCompileInputs.cache
+D:\ASPDOTNET\WebAppUsersTable\BussinerLayer\obj\Debug\BussinerLayer.dll
+D:\ASPDOTNET\WebAppUsersTable\BussinerLayer\obj\Debug\BussinerLayer.pdb
+D:\ASPDOTNET\WebAppUsersTable\BussinerLayer\bin\Debug\BussinesObject.dll
+D:\ASPDOTNET\WebAppUsersTable\BussinerLayer\bin\Debug\DataAccesLayer.dll
+D:\ASPDOTNET\WebAppUsersTable\BussinerLayer\bin\Debug\BussinesObject.pdb
+D:\ASPDOTNET\WebAppUsersTable\BussinerLayer\bin\Debug\DataAccesLayer.pdb
+D:\ASPDOTNET\WebAppUsersTable\BussinerLayer\obj\Debug\BussinesLayer.csproj.CopyComplete

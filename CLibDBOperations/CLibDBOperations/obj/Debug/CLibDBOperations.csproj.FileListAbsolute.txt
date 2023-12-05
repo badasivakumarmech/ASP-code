@@ -1,0 +1,6 @@
+D:\ASPDOTNET\CLibDBOperations\CLibDBOperations\bin\Debug\CLibDBOperations.dll
+D:\ASPDOTNET\CLibDBOperations\CLibDBOperations\bin\Debug\CLibDBOperations.pdb
+D:\ASPDOTNET\CLibDBOperations\CLibDBOperations\obj\Debug\CLibDBOperations.csproj.AssemblyReference.cache
+D:\ASPDOTNET\CLibDBOperations\CLibDBOperations\obj\Debug\CLibDBOperations.csproj.CoreCompileInputs.cache
+D:\ASPDOTNET\CLibDBOperations\CLibDBOperations\obj\Debug\CLibDBOperations.dll
+D:\ASPDOTNET\CLibDBOperations\CLibDBOperations\obj\Debug\CLibDBOperations.pdb

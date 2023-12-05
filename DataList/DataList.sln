@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataList", "DataList\DataList.csproj", "{BEEC705F-29DF-400E-9F4B-D2E555030AAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEEC705F-29DF-400E-9F4B-D2E555030AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEEC705F-29DF-400E-9F4B-D2E555030AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEEC705F-29DF-400E-9F4B-D2E555030AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEEC705F-29DF-400E-9F4B-D2E555030AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAD0BBC8-F42F-41EF-8E4C-B7635088DF11}
+	EndGlobalSection
+EndGlobal

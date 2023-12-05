@@ -1,0 +1,6 @@
+D:\ASPDOTNET\WA_MicroProject_PL\CLib_MicroProject_CDL\bin\Debug\CLib_MicroProject_CDL.dll
+D:\ASPDOTNET\WA_MicroProject_PL\CLib_MicroProject_CDL\bin\Debug\CLib_MicroProject_CDL.pdb
+D:\ASPDOTNET\WA_MicroProject_PL\CLib_MicroProject_CDL\obj\Debug\CLib_MicroProject_CDL.csproj.AssemblyReference.cache
+D:\ASPDOTNET\WA_MicroProject_PL\CLib_MicroProject_CDL\obj\Debug\CLib_MicroProject_CDL.csproj.CoreCompileInputs.cache
+D:\ASPDOTNET\WA_MicroProject_PL\CLib_MicroProject_CDL\obj\Debug\CLib_MicroProject_CDL.dll
+D:\ASPDOTNET\WA_MicroProject_PL\CLib_MicroProject_CDL\obj\Debug\CLib_MicroProject_CDL.pdb
